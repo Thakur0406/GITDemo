@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.305 s <<< FAILURE! - in TestSuite
+CucumberOptions.TestRunnerTestNg.runScenario  Time elapsed: 14.293 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 6 out of bounds for length 6
+
